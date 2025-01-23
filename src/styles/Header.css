@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+  padding: 20px;
+  background-color: #6200ea;
+  color: white;
+}
+
+.header-button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #03dac5;
+  border: none;
+  color: black;
+  cursor: pointer;
+  border-radius: 5px;
+}
